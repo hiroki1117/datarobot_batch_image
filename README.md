@@ -1,0 +1,2 @@
+# datarobot_batch_image
+datarobotでバッチ予測する時用のdockerイメージ
